@@ -1,0 +1,24 @@
+{
+  "supercars": [
+    {
+      "name": "Bugatti Chiron",
+      "description": "The Bugatti Chiron is a high-performance hypercar produced by Bugatti Automobiles. It boasts a quad-turbocharged W16 engine that produces 1,500 horsepower, and can accelerate from 0 to 60 mph in just 2.4 seconds. The Chiron has a top speed of 261 mph and is known for its stunning design and luxurious features."
+    },
+    {
+      "name": "Lamborghini Aventador",
+      "description": "The Lamborghini Aventador is a mid-engine sports car produced by Italian automaker Lamborghini. It features a naturally aspirated V12 engine that produces 740 horsepower, and can accelerate from 0 to 60 mph in just 2.9 seconds. The Aventador has a top speed of 217 mph and is known for its aggressive styling and exceptional handling."
+    },
+    {
+      "name": "Ferrari 488 GTB",
+      "description": "The Ferrari 488 GTB is a mid-engine sports car produced by Italian automaker Ferrari. It features a twin-turbocharged V8 engine that produces 661 horsepower, and can accelerate from 0 to 60 mph in just 3 seconds. The 488 GTB has a top speed of 205 mph and is known for its sleek design and precise handling."
+    },
+    {
+      "name": "Porsche 911 GT2 RS",
+      "description": "The Porsche 911 GT2 RS is a high-performance sports car produced by German automaker Porsche. It features a twin-turbocharged flat-six engine that produces 700 horsepower, and can accelerate from 0 to 60 mph in just 2.7 seconds. The 911 GT2 RS has a top speed of 211 mph and is known for its exceptional track performance and handling."
+    },
+    {
+      "name": "McLaren 720S",
+      "description": "The McLaren 720S is a mid-engine sports car produced by British automaker McLaren. It features a twin-turbocharged V8 engine that produces 710 horsepower, and can accelerate from 0 to 60 mph in just 2.8 seconds. The 720S has a top speed of 212 mph and is known for its futuristic design and exceptional performance on both the road and the track."
+    }
+  ]
+}
